@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, make sure cite it as below."
+authors:
+  - family-names: "Mazlum"
+    given-names: "Karataş"
+    orcid: 0000-0002-4096-0212
+    affiliation: GESIS - Leibniz-Institute for the Social Sciences
+    city: Cologne
+    country: DE
+    email: mazlum.karatas@gesis.org
+title: "GEP-Information-Retrieval"
+repository-code: 'https://github.com/InspireQualityeu'
+url: 'https://www.inspirequality.eu'
+license: CC-BY-NC-SA-4.0
