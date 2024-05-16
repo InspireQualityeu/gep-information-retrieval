@@ -1,8 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this code, make sure cite it as below."
+type: software
 authors:
-  - family-names: "Mazlum"
-    given-names: "Karataş"
+  - family-names: "Karataş"
+    given-names: "Mazlum"
     orcid: 0000-0002-4096-0212
     affiliation: GESIS - Leibniz-Institute for the Social Sciences
     city: Cologne
