@@ -2,7 +2,7 @@
 Information Retrieval for the INSPIRE's indicators
 
 ## Description
-This Python project is designed extranctign information for the INSPIRE indicators using Regular Expression in Python. This project does not include text preprocessing! The files were origanally in .PDF format but they were converted into .txt format.  
+This Python project is designed extrancting information for the INSPIRE indicators using Regular Expression in Python. This project does not include text preprocessing! The files were origanally in .PDF format but they were converted into .txt format before running this script.  
 
 INSPIRE is an EU funded project. INSPIRE is Europe's Centre of Excellence on inclusive gender equality in research and innovation. It brings together cutting-edge knowledge, ambitious policy approaches, and innovative practices to provide a gateway for scholars, equality experts, practitioners and trainers to connect and share resources, as well as co-create new ones. For more info please visit: https://www.inspirequality.eu/
 
